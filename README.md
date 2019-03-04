@@ -16,4 +16,5 @@ console.log(`
   ${mathUtils.accMul(1,1.2)}, // 两个数乘法
   ${mathUtils.accMulPlus(1, 1.2, 3)}, // 大于两个数的乘法
   ${mathUtils.toFixed(1, 4)}, // 设置小数点后保留的位数，默认为4位
+  ${mathUtils.toThousands(1000, true)}, // 将数据转化为
 `)
