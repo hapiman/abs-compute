@@ -1,6 +1,6 @@
 {
   "name": "abs-compute",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "functions to compute numbers",
   "main": "index.js",
   "scripts": {
